@@ -1,0 +1,36 @@
+* Intro
+** Installing
+   http://python.org/downloads/
+   3.X, not 2
+   32 bit if not sure about which version to download
+   open cmd to make sure python is installed to your PATH
+** IDE
+   Explain what an IDE is
+   Install PyCharm community
+   http://www.jetbrains.com/pycharm/
+
+* Programming
+** TODO
+
+* Robotics
+** Setting up
+*** PIP
+    pip is a python package installer
+    pulls packages from the web and sets them up on your system
+*** PyFRC
+    pyfrc is a python port of the Java API for FRC Robotics
+    installing this package will install all necessary classes and functions for basic robot control, e.g. driving, using motors, firing pistons, etc.
+** Learning
+   To start learning how to code for a basic robot go to  https://robotpy.readthedocs.org/en/latest/guide/index.html and read
+*** Misc Info
+    We currently use the IterativeRobot class for our robot, so learning and coding based off of those examples will be the most helpful
+    We usually use Solenoids, Talons, and RobotDrive classes so looking into those classes would be the most helpful and productive.
+    We have custom made classes for using Xbox controllers for our controllers, so learning how to use that would also be helpful: http://www.github.com/ROBOMonkeys/enums/
+    
+
+* TODO 
+    add info about git
+    add documentation for XboxButtons/XboxAxis
+    add pics
+    add activities and projects
+    
