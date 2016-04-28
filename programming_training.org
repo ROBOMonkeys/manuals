@@ -1,9 +1,12 @@
 * Intro
 ** Installing
-   http://python.org/downloads/
-   3.X, not 2
-   32 bit if not sure about which version to download
-   open cmd to make sure python is installed to your PATH
+   To install python to your computer you will need to install it at http://python.org/downloads/.
+   When you get to the website, make sure you download version 3.5.1 and not version 2. After selecting version 3.5.1 you
+   will go down til you see Files and will ask be the OS(Windows, Mac etc.) as well as the 32 or 64 bit version. If you are not
+   sure what bit your computer is using then download 32 bit instead. If you are downloading for windows then make sure
+   you click on executable installer. After downloading it make sure you click on the installer to install it on
+   your computer and go through the steps. To make sure that you have python installed on your open of cmd(command prompt) and python.exe. If you
+   get "Python 3.5.1" then python is properly installed onto your computer.
 ** IDE
    Explain what an IDE is
    Install PyCharm community
