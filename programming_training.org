@@ -8,16 +8,19 @@
    your computer and go through the steps. To make sure that you have python installed on your open of cmd(command prompt) and python.exe. If you
    get "Python 3.5.1" then python is properly installed onto your computer.
 ** IDE
-   Explain what an IDE is
-   Install PyCharm community
-   http://www.jetbrains.com/pycharm/
+   An integrated development environment(IDE) is a software application that is used by programmers
+   to write and test code easily. The IDE we are using for python is PyCharm as it has a friendly
+   interface and is easy to understand. You can install PyCharm at http://www.jetbrains.com/pycharm/
+   and click on download. First select the OS(Windows, Mac, etc.) you are using and click on the
+   download under community. After the installer is done, click on it and click next until you
+   get to installation options. Click on .py and 32 or 64 bit depending on what your computer has.
+   Make sure the folder is called JetBrain and click install.
 
 * Programming
 ** TODO
 
 * Robotics
 ** Setting up
-*** PIP
     pip is a python package installer
     pulls packages from the web and sets them up on your system
 *** PyFRC
@@ -28,12 +31,15 @@
 *** Misc Info
     We currently use the IterativeRobot class for our robot, so learning and coding based off of those examples will be the most helpful
     We usually use Solenoids, Talons, and RobotDrive classes so looking into those classes would be the most helpful and productive.
-    We have custom made classes for using Xbox controllers for our controllers, so learning how to use that would also be helpful: http://www.github.com/ROBOMonkeys/enums/
+    We have custom made classes for using Xbox controllers for our
+*** PIP controllers, so learning how to use that would also be helpful: http://www.github.com/ROBOMonkeys/enums/
     
+* Activities
+** Ardublocks
 
 * TODO 
     add info about git
     add documentation for XboxButtons/XboxAxis
-    add pics
-    add activities and projects
+    add pics(in progress)
+
     
