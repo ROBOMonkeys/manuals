@@ -34,7 +34,8 @@
     We currently use the IterativeRobot class for our robot, so learning and coding based off of those examples will be the most helpful
     We usually use Solenoids, Talons, and RobotDrive classes so looking into those classes would be the most helpful and productive.
     We have custom made classes for using Xbox controllers for our
-*** PIP controllers, so learning how to use that would also be helpful: http://www.github.com/ROBOMonkeys/enums/
+*** PIP
+    controllers, so learning how to use that would also be helpful: http://www.github.com/ROBOMonkeys/enums/
     
 * Activities
 ** Ardublocks
