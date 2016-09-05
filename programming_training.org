@@ -27,6 +27,10 @@
     pyfrc is a python port of the Java API for FRC Robotics
     installing this package will install all necessary classes and functions for basic robot control, e.g. driving, using motors, firing pistons, etc.
     https://github.com/robotpy/pyfrc
+    To install PyFRC open up command prompt(cmd). Next you type in "pip install pyfrc" if you are on windows
+    or "pip3 install pyfrc" if you are on linux and press enter. Just wait for it to install and after it's done
+    you close command prompt and you are good to go. (second picture is a placeholder due to pyfrc already
+    installed on my computer so it shows that it's already installed on my computer.)
 ** Learning
     First few weeks learn python at codecademy https://www.codecademy.com/learn/python
     Here are the Units you should complete before working on robot code.
