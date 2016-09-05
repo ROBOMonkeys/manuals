@@ -28,8 +28,16 @@
     installing this package will install all necessary classes and functions for basic robot control, e.g. driving, using motors, firing pistons, etc.
     https://github.com/robotpy/pyfrc
 ** Learning
-   First few weeks learn python at codecademy https://www.codecademy.com/learn/python
-   After getting a feel of python go to https://robotpy.readthedocs.org/en/latest/guide/index.html and read
+    First few weeks learn python at codecademy https://www.codecademy.com/learn/python
+    Here are the Units you should complete before working on robot code.
+    -UNIT 1: PYTHON SYNTAX
+    -UNIT 2: STRINGS AND CONSOLE OUTPUT
+    -UNIT 3: CONDITIONALS AND CONTROL FLOW
+    -UNIT 4: FUNCTIONS
+    -UNIT 5: LISTS & DICTIONARIES
+    -UNIT 7: LISTS AND FUNCTIONS
+    -UNIT 8: LOOPS
+    After getting a feel of python go to https://robotpy.readthedocs.org/en/latest/guide/index.html and read
 *** Misc Info
     We currently use the IterativeRobot class for our robot, so learning and coding based off of those examples will be the most helpful
     We usually use Solenoids, Talons, and RobotDrive classes so looking into those classes would be the most helpful and productive.
