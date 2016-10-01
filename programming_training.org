@@ -41,6 +41,7 @@
     -UNIT 5: LISTS & DICTIONARIES
     -UNIT 7: LISTS AND FUNCTIONS
     -UNIT 8: LOOPS
+    -UNIT 11: INTRODUCTION TO CLASSES
     After getting a feel of python go to https://robotpy.readthedocs.org/en/latest/guide/index.html and read
 *** Misc Info
     We currently use the IterativeRobot class for our robot, so learning and coding based off of those examples will be the most helpful
